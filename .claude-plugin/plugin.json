@@ -1,0 +1,13 @@
+{
+  "name": "resume-create",
+  "version": "1.0.0",
+  "description": "Tailor your resume to one job posting: a one-page PDF and a short cover letter in the posting's language, nothing invented. Research-backed design, 8 languages, only Python 3 + Chrome.",
+  "author": {
+    "name": "Anatolii Marchenko",
+    "url": "https://markforest.github.io"
+  },
+  "homepage": "https://github.com/MarkForest/resume-create",
+  "repository": "https://github.com/MarkForest/resume-create",
+  "license": "MIT",
+  "keywords": ["resume", "cv", "cover-letter", "job-search", "pdf", "claude-code", "career"]
+}

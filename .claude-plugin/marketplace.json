@@ -1,0 +1,15 @@
+{
+  "name": "markforest-resume-create",
+  "description": "resume-create: a tailored one-page resume PDF and cover letter for any job posting",
+  "owner": {
+    "name": "Anatolii Marchenko",
+    "url": "https://github.com/MarkForest"
+  },
+  "plugins": [
+    {
+      "name": "resume-create",
+      "source": "./",
+      "description": "Tailor your resume to one job posting: a one-page PDF and a short cover letter in the posting's language, nothing invented. Research-backed design, 8 languages, only Python 3 + Chrome."
+    }
+  ]
+}

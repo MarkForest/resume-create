@@ -1,0 +1,104 @@
+{
+  "lang": "en",
+  "theme": "a",
+  "name": "Alex Morgan",
+  "role": "Senior Backend Engineer · PHP · Laravel · payment integrations",
+  "contacts": [
+    [
+      "Berlin, Germany · open to remote",
+      "alex.morgan@example.com"
+    ],
+    [
+      "linkedin.com/in/alex-morgan-example",
+      "github.com/alex-morgan-example"
+    ]
+  ],
+  "photo": "example-photo.png",
+  "summary": "Backend engineer with 7 years in production: networks of payment sites and fintech services on PHP 8, Laravel and plain PHP, with Vue and Livewire on the front end. I connect payment providers through APIs and webhooks and, together with SEO teams, make sites fast and easy for search engines to read. I take code from the first commit to deploy: Linux, Nginx, Docker, GitLab&nbsp;CI/CD. Repository maintainer and code reviewer. I use Claude&nbsp;Code daily.",
+  "experience": [
+    {
+      "title": "Senior Backend Engineer",
+      "org": "Northwind Pay, fintech, remote",
+      "dates": "Aug 2023 — present",
+      "bullets": [
+        "<strong>Repository maintainer</strong>: owned code review, branching strategy and deploys to every environment (Docker, GitLab CI/CD). A linear Git history cut merge conflicts and post-release bugs.",
+        "Moved legacy services to Laravel and Symfony with zero production downtime — they became faster and easier to scale.",
+        "Introduced testing from scratch: unit and integration tests for critical modules. Releases became faster and safer."
+      ]
+    },
+    {
+      "title": "Backend Mentor",
+      "org": "Open Code Academy, part-time",
+      "dates": "Dec 2024 — Jul 2025",
+      "bullets": [
+        "Designed a backend course (PHP, OOP, Laravel, MySQL/Redis, REST, testing) and ran 80+ hours of lectures and labs; prepared a cohort of developers for industry work through code review and final projects."
+      ]
+    },
+    {
+      "title": "PHP Developer",
+      "org": "Bluefield Software, remote",
+      "dates": "Mar 2020 — Jul 2023",
+      "bullets": [
+        "Launched and grew a <strong>network of payment sites</strong>: new modules, bug fixes, payment provider integrations through APIs and webhooks.",
+        "Owned <strong>technical SEO</strong> with the SEO team: page speed, metadata, sitemaps, robots.txt, redirects, structured data.",
+        "Negotiated integrations directly with payment providers' engineers and worked closely with the business.",
+        "Cut checkout page load from 3.1 s to 1.2 s with query caching in Redis and lazy-loaded widgets; conversion on mobile grew."
+      ]
+    },
+    {
+      "title": "Full-stack Developer",
+      "org": "Kestrel Labs, Lisbon",
+      "dates": "Jan 2019 — Feb 2020",
+      "bullets": [
+        "Built payment acceptance and payouts through API integrations and wrote the public API docs: widget links, payment processing, receipts."
+      ]
+    },
+    {
+      "title": "Web Developer",
+      "org": "Freelance",
+      "dates": "Jun 2016 — Dec 2018",
+      "bullets": [
+        "Built and supported 20+ sites for small businesses on PHP, MySQL and WordPress: from design hand-off to hosting, backups and SSL."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "group": "Backend",
+      "items": "PHP 8, Laravel, Symfony, plain PHP, REST API, payment APIs and webhooks, OOP, PHPUnit"
+    },
+    {
+      "group": "Frontend",
+      "items": "Vue, Livewire, JavaScript, HTML5 / CSS"
+    },
+    {
+      "group": "Technical SEO",
+      "items": "Core Web Vitals and speed, metadata, sitemaps, robots.txt, redirects, structured data"
+    },
+    {
+      "group": "Databases",
+      "items": "MySQL (indexes, query tuning), Redis, PostgreSQL"
+    },
+    {
+      "group": "Infrastructure",
+      "items": "Linux, Bash, Nginx, Docker, GitLab CI/CD, Git (code review, branching strategy)"
+    },
+    {
+      "group": "AI dev tools",
+      "items": "Claude Code (daily), LLM integration"
+    }
+  ],
+  "education": [
+    {
+      "school": "TU Munich",
+      "detail": "B.Sc. Computer Science",
+      "years": "2012 — 2016"
+    },
+    {
+      "school": "AWS",
+      "detail": "Certified Developer — Associate",
+      "years": "2022"
+    }
+  ],
+  "languages": "English — C1 · German — B2 · Spanish — native"
+}
